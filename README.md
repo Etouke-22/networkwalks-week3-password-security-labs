@@ -326,10 +326,11 @@ Successful opening of the PDF provided verification that the password-recovery p
 
 ###  JTR / Johnny Setup
 
+![image](https://github.com/Etouke-22/networkwalks-week3-password-security-labs/blob/main/Screenshot_1.png?raw=true)
 
+![image]()
 
-
-
+![image]()
 
 ---
 
