@@ -13,10 +13,8 @@
 
 **W3-PS-FINAL | CYBERSECURITY | NETWORKWALKS**
 
-### 👤 Alebiosu Oluwadamilare Samuel
-**Cybersecurity Professional | Networkwalks Intern | Batch B082**
-
-**Assessment Submitted: 25 August 2026**
+### 👤 Etouke Bayin Cedric
+**Cybersecurity Professional | Networkwalks Intern | Batch B083**
 
 ---
 
@@ -27,8 +25,8 @@
 | **Category** | **Details** |
 |---|---|
 | 👤 **Student / Analyst** | Alebiosu Oluwadamilare Samuel |
-| 🎓 **Program / Batch** | B082 Networkwalks |
-| 📅 **Assessment Submitted** | 25 August 2026 |
+| 🎓 **Program / Batch** | B083 Networkwalks |
+| 📅 **Assessment Submitted** | 24 September 2026 |
 | 🧪 **Week** | Week 03 |
 | 🔐 **Primary Focus** | Password Security & Cracking |
 | ⚔️ **Module 01** | Password Cracking with John the Ripper & Johnny |
@@ -37,7 +35,7 @@
 | 🖥️ **Primary Platform** | Windows |
 | 🔎 **Hash Format** | PDF Hash / `$pdf$...` |
 | 📸 **Evidence** | Screenshots |
-| 🔐 **Authorization** | Controlled Educational Laboratory Environment |
+| 🔐 **Authorization** | Controlled Lab Environment |
 | 📊 **Assessment Status** | Completed |
 
 ---
@@ -68,7 +66,7 @@ Unauthorized password cracking, credential recovery, access attempts, or interfe
 
 # 🛡️ 2. Introduction
 
-This cybersecurity project documents the practical activities completed during **Week 3 of my Cybersecurity & Ethical Hacking internship with Networkwalks Academy**.
+This cybersecurity project documents the practical activities completed during **Week 3 of my Cybersecurity internship with Networkwalks Academy**.
 
 The week's practical work focused on **password security, password hashes, protected files, password recovery, security tooling, and professional evidence documentation**.
 
@@ -126,7 +124,7 @@ The primary objectives of the Week 3 practical were to:
 
 | **Tool / Technology** | **Purpose** |
 |---|---|
-|  **Windows** | Primary practical environment |
+|  **Windows** | Practical environment |
 |  **John the Ripper** | Password-security testing and password recovery |
 |  **Johnny GUI** | Graphical interface for John the Ripper |
 |  **Web Browser** | Accessing Networkwalks security tools |
