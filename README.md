@@ -338,9 +338,8 @@ Successful opening of the PDF provided verification that the password-recovery p
 
 <img width="1345" height="753" alt="JOHNNY PASSWORD PROOF 1" src="https://github.com/Etouke-22/networkwalks-week3-password-security-labs/blob/main/Screenshot_2.png?raw=true" />
 
-<img width="1365" height="760" alt="JOHNNY PASSWORD PROOF 2" src="https://github.com/user-attachments/assets/4b6d95d9-911a-453e-9283-06fe449fa686" />
+<img width="1365" height="760" alt="JOHNNY PASSWORD PROOF 2" src="https://github.com/Etouke-22/networkwalks-week3-password-security-labs/blob/0ac9938f399e3d30d1523f53894dbf0f08f12902/Screenshot_3.png" />
 
-<img width="1365" height="720" alt="JOHNNY PASSWORD PROOF 3" src="https://github.com/user-attachments/assets/82573dd7-534c-43dc-8050-a1a042fa0a0e" />
 
 
 
@@ -353,6 +352,7 @@ Successful opening of the PDF provided verification that the password-recovery p
 <img width="1361" height="716" alt="MY PDFFILE HASH 2" src="https://github.com/user-attachments/assets/cb322607-3e37-4a02-a275-aa443fe4cac7" />
 
 <img width="1365" height="749" alt="MY PDFFILE HASH 3" src="https://github.com/user-attachments/assets/3d09f4aa-6c91-4559-9f57-31e181a9baef" />
+<img width="1365" height="720" alt="JOHNNY PASSWORD PROOF 3" src="" />
 
 
 ---
