@@ -336,7 +336,7 @@ Successful opening of the PDF provided verification that the password-recovery p
 
 ###  PDF Hash Extraction
 
-<img width="1345" height="753" alt="JOHNNY PASSWORD PROOF 1" src="https://github.com/user-attachments/assets/15a0c83a-6092-43c8-943d-7d0c3db954e5" />
+<img width="1345" height="753" alt="JOHNNY PASSWORD PROOF 1" src="https://github.com/Etouke-22/networkwalks-week3-password-security-labs/blob/main/Screenshot_2.png?raw=true" />
 
 <img width="1365" height="760" alt="JOHNNY PASSWORD PROOF 2" src="https://github.com/user-attachments/assets/4b6d95d9-911a-453e-9283-06fe449fa686" />
 
