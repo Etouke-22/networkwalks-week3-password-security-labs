@@ -5,7 +5,7 @@
 ###  PASSWORD SECURITY • HASH ANALYSIS • PASSWORD RECOVERY
 
 <img src="https://img.shields.io/badge/CYBERSECURITY-NETWORKWALKS-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/WEEK%203-B082-6F42C1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WEEK%203-B083-6F42C1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/STATUS-COMPLETED-22C55E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AUTHORIZED-YES-22C55E?style=for-the-badge" />
 
@@ -24,7 +24,6 @@
 
 | **Category** | **Details** |
 |---|---|
-| 👤 **Student / Analyst** | Alebiosu Oluwadamilare Samuel |
 | 🎓 **Program / Batch** | B083 Networkwalks |
 | 📅 **Assessment Submitted** | 24 September 2026 |
 | 🧪 **Week** | Week 03 |
@@ -36,7 +35,6 @@
 | 🔎 **Hash Format** | PDF Hash / `$pdf$...` |
 | 📸 **Evidence** | Screenshots |
 | 🔐 **Authorization** | Controlled Lab Environment |
-| 📊 **Assessment Status** | Completed |
 
 ---
 
@@ -328,27 +326,8 @@ Successful opening of the PDF provided verification that the password-recovery p
 
 ###  JTR / Johnny Setup
 
-<img width="1347" height="593" alt="SETUP JOHNNY" src="https://github.com/user-attachments/assets/5a9e4ebf-a626-4e82-8f11-362a17ae49ad" />
 
-<img width="1359" height="749" alt="JOHNNY SELECT COMPONENT" src="https://github.com/user-attachments/assets/8949ec91-2716-4022-848b-0fc2dfa90283" />
 
-<img width="1365" height="744" alt="JOHNNY MENU SHORTCUT" src="https://github.com/user-attachments/assets/7e78be46-39ed-4fb1-9580-e0a80e8b1b4b" />
-
-<img width="1365" height="767" alt="READY TO INSTALL" src="https://github.com/user-attachments/assets/b16ed393-bfba-4a8b-b51b-f4d496e22a6f" />
-
-<img width="1365" height="762" alt="COMPLETING JOHHNNY WIZARD" src="https://github.com/user-attachments/assets/4ef55594-5231-483e-b880-9afd29575b53" />
-
-<img width="1364" height="753" alt="JTR RUN FOLDER" src="https://github.com/user-attachments/assets/6de33aee-8a24-4df7-a14b-8778e96a50e3" />
-
-<img width="1355" height="750" alt="JTR JOHN EXE" src="https://github.com/user-attachments/assets/64bc801d-653d-4a0e-8515-d8f80be15aec" />
-
-<img width="1364" height="761" alt="JTR FILE AND EXTRACTED" src="https://github.com/user-attachments/assets/7d7e9d58-997d-439a-93d1-6628235e9fdc" />
-
-<img width="1361" height="766" alt="JOHNNY SETTINGS EXE" src="https://github.com/user-attachments/assets/c3cf7fe1-df9f-437b-9a4f-0e7e917014c6" />
-
-<img width="1352" height="766" alt="JOHNNY DONE OPENED" src="https://github.com/user-attachments/assets/5c5da2d4-0fc5-4342-bc68-04beeb5e43e8" />
-
-<img width="1342" height="762" alt="JOHNNY EXESUCCESS DONE" src="https://github.com/user-attachments/assets/d7433b3f-7155-4b65-8f2e-b793e01e2d72" />
 
 
 
