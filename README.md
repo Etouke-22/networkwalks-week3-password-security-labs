@@ -347,20 +347,11 @@ Successful opening of the PDF provided verification that the password-recovery p
 ---
 
 ### ⚔️ Password Recovery
+<img width="1365" height="767" alt="JOHNNY PASSWORD CRACK 1 IS DONE" src="" />
 
-<img width="1365" height="767" alt="JOHNNY PASSWORD CRACK 1 IS DONE" src="https://github.com/user-attachments/assets/1d390454-b0f6-48e9-8867-2c39c1629397" />
 
-<img width="1365" height="767" alt="JOHNNY PASSWORD CRACK 2 IS DONE" src="https://github.com/user-attachments/assets/7d1f82d4-9538-419d-9fd0-152d262d0697" />
+<img width="1365" height="720" alt="JOHNNY PASSWORD PROOF 3" src="https://github.com/Etouke-22/networkwalks-week3-password-security-labs/blob/a936c2fd0709f4f19d513c85e80369c4ab046b13/Screenshot_4.png" /> 
 
-<img width="1365" height="762" alt="JOHNNY PASSWORD CRACK 3 IS DONE" src="https://github.com/user-attachments/assets/2341b111-d3c6-4810-af0f-ae9acf9710d9" />
-<img width="1355" height="724" alt="MY PDFFILE HASH 1" src="https://github.com/user-attachments/assets/3dd0804b-6d3e-4083-9bdb-cf3a36daf491" />
-
-<img width="1361" height="716" alt="MY PDFFILE HASH 2" src="https://github.com/user-attachments/assets/cb322607-3e37-4a02-a275-aa443fe4cac7" />
-
-<img width="1365" height="749" alt="MY PDFFILE HASH 3" src="https://github.com/user-attachments/assets/3d09f4aa-6c91-4559-9f57-31e181a9baef" />
-<img width="1365" height="720" alt="JOHNNY PASSWORD PROOF 3" src="" /> 
-
----
 
 # 🛡️ 8. Module 02 Password Cracking with Networkwalks Tools
 
