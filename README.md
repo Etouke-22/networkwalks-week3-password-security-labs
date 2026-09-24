@@ -474,7 +474,7 @@ Successful access to the document provided verification of the recovery result.
 
 ### 🌐 Networkwalks Hash Calculator
 
-<img width="1365" height="767" alt="Hash Calculator NETWORKWALKS" src="https://github.com/user-attachments/assets/7c34d253-8e7a-46d5-ba94-d6e48012abc9" />
+<img width="1365" height="767" alt="Hash Calculator NETWORKWALKS" src="https://github.com/Etouke-22/networkwalks-week3-password-security-labs/blob/main/Screenshot_5.png?raw=true" />
 
 ---
 
