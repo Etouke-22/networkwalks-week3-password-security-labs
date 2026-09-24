@@ -480,7 +480,7 @@ Successful access to the document provided verification of the recovery result.
 
 ### #️⃣ Extracted PDF Hash
 
-<img width="1365" height="709" alt="Password CrackerNETWORKS" src="https://github.com/user-attachments/assets/4e72bf8b-1ce5-47fb-ba2a-24dec8fd86b6" />
+<img width="1365" height="709" alt="Password CrackerNETWORKS" src="https://github.com/Etouke-22/networkwalks-week3-password-security-labs/blob/main/Screenshot_6.png?raw=true" />
 
 ---
 
