@@ -582,24 +582,12 @@ The protected PDF exercise provided a practical demonstration of how password pr
 
 </p>
 
-### Technical Skills
-
-- Password-security testing
-- Hash extraction and handling
-- John the Ripper
-- Johnny GUI
-- Networkwalks security tools
-- Protected-file analysis
-- Controlled security testing
-- Evidence collection
-- Technical documentation
-- Security workflow analysis
 
 ---
 
 # 🛡️ 13. Observations & Technical Considerations
 
-##  Observation 01 Hash Format
+##  Observation 01: Hash Format
 
 The PDF hash must be preserved correctly before being supplied to the password-recovery tool.
 
@@ -607,7 +595,7 @@ The `$pdf$` prefix is an important indicator of the PDF hash format used during 
 
 ---
 
-##  Observation 02 Recovery Time
+##  Observation 02: Recovery Time
 
 Password-recovery duration can vary depending on:
 
@@ -621,7 +609,7 @@ A simple password may be recovered significantly faster than a complex password 
 
 ---
 
-##  Observation 03 Evidence Matters
+##  Observation 03: Evidence Matters
 
 The practical demonstrated that cybersecurity work is not limited to running tools.
 
@@ -643,7 +631,7 @@ This makes the work reproducible, reviewable, and professionally documented.
 
 ---
 
-##  Observation 04 Password Strength
+##  Observation 04: Password Strength
 
 The practical reinforces the importance of strong passwords.
 
@@ -713,20 +701,7 @@ Password-security testing must always be conducted within a clearly defined and 
 
 ---
 
-# 🛡️ 16. Security Assessment Summary
 
-| **Assessment Area** | **Status** |
-|---|---|
-| Password Security Fundamentals | ✅ Completed |
-| PDF Hash Extraction | ✅ Completed |
-| John the Ripper Exercise | ✅ Completed |
-| Johnny Configuration | ✅ Completed |
-| Networkwalks Hash Calculator | ✅ Completed |
-| Networkwalks Password Cracker | ✅ Completed |
-| Password Verification | ✅ Completed |
-| Evidence Collection | ✅ Completed |
-| Technical Documentation | ✅ Completed |
-| Authorized Laboratory Testing | ✅ Completed |
 
 ### Overall Practical Progress
 
@@ -741,7 +716,7 @@ DOCUMENTATION            ██████████████████�
 
 ---
 
-# 🛡️ 17. Key Learning Outcomes
+# 🛡️ 16. Key Learning Outcomes
 
 Through the Week 3 practical exercises, I developed hands-on experience with:
 
@@ -761,27 +736,8 @@ The exercises demonstrated how password-security testing can be approached throu
 
 The practical also reinforced that **technical execution and professional documentation are equally important** in cybersecurity.
 
----
 
-### 🛡️ Learning Validation
-
-The assessment provided an opportunity to validate theoretical understanding alongside the practical laboratory exercises.
-
-```text
-KNOWLEDGE
-    ↓
-PRACTICAL LAB
-    ↓
-EVIDENCE
-    ↓
-DOCUMENTATION
-    ↓
-SECURITY UNDERSTANDING
-```
-
----
-
-# 🛡️ 18. Conclusion
+# 🛡️ 17. Conclusion
 
 During **Week 3 of my Cybersecurity & Ethical Hacking internship at Networkwalks Academy**, I completed practical exercises focused on **password security, hash analysis, password recovery, and protected-file security testing**.
 
@@ -831,95 +787,6 @@ This project represents another step in my development as a cybersecurity profes
 
 ---
 
-# 🛡️ 19. Project Information
 
-| **Project Detail** | **Information** |
-|---|---|
-| 👤 **Author** | **Alebiosu Oluwadamilare Samuel** |
-| 🏢 **Program** | Cybersecurity Program Networkwalks |
-| 📅 **Week** | **Week 03** |
-| 🎓 **Batch** | **B082** |
-| 📆 **Assessment Submission** | **25 August 2026** |
-| 🔐 **Project Type** | Authorized Cybersecurity Laboratory |
-| 🛡️ **Primary Focus** | Password Security & Cracking |
-| ⚔️ **Module 01** | John the Ripper & Johnny |
-| 🌐 **Module 02** | Networkwalks Hash Calculator & Password Cracker |
-| 💻 **Primary Platform** | Windows |
-| 📄 **Target** | Authorized Protected PDF |
-| #️⃣ **Hash Type** | PDF Hash |
-| 📸 **Evidence** | Screenshots |
-| 📊 **Assessment Status** | Completed |
 
----
 
-# 👤 20. Author
-
-<div align="center">
-
-### **Alebiosu Oluwadamilare Samuel**
-
-**Cybersecurity Professional | Networkwalks Intern | Batch B082**
-
-<br>
-
-🛡️ **Cybersecurity & Ethical Hacking**
-
-<br>
-
-**Week 03 Password Security & Cracking Labs**
-
-<br>
-
-**Assessment Submission: 25 August 2026**
-
-</div>
-
----
-
-# 🛡️ 21. Assessment Progress
-
-```text
-PHASE 1
-Password Security Fundamentals
-████████████████████████████████  COMPLETED ✅
-
-PHASE 2
-PDF Hash Extraction
-████████████████████████████████  COMPLETED ✅
-
-PHASE 3
-John the Ripper / Johnny
-████████████████████████████████  COMPLETED ✅
-
-PHASE 4
-Networkwalks Password-Recovery Tools
-████████████████████████████████  COMPLETED ✅
-
-PHASE 5
-Password Verification & Evidence
-████████████████████████████████  COMPLETED ✅
-
-PHASE 6
-Professional Documentation
-████████████████████████████████  COMPLETED ✅
-```
-
----
-
-<div align="center">
-
-### 🛡️ CYBERSECURITY • ETHICAL HACKING • PASSWORD SECURITY
-
-**Learn → Practice → Analyze → Document → Secure**
-
-<br>
-
-*W3-PS-FINAL | Networkwalks | B082 | 25 August 2026*
-
-<br>
-
-**Alebiosu Oluwadamilare Samuel**
-
-</div>
-
----
