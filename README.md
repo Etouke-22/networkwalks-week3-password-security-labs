@@ -486,7 +486,7 @@ Successful access to the document provided verification of the recovery result.
 
 ### ⚔️ Password Cracker
 
-<img width="1364" height="716" alt="PASSCRACKED NETWORKWALKS" src="https://github.com/user-attachments/assets/a6273bec-3823-4e4f-ad40-510983c781e5" />
+<img width="1364" height="716" alt="PASSCRACKED NETWORKWALKS" src="https://github.com/Etouke-22/networkwalks-week3-password-security-labs/blob/ac816289634f5993d0347c64a883624e5b9c4f83/Screenshot_7.png" />
 
 ---
 
